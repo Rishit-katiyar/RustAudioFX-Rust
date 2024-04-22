@@ -57,15 +57,6 @@ fn main() {
 cargo build
 cargo run
 ```
-
-## Contributing
-
-Contributions to RustAudioFX-rust are welcome! Whether you want to add new features, fix bugs, or improve documentation, feel free to submit a pull request. For major changes, please open an issue first to discuss your ideas.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-RustAudioFX-rust relies on the [CPAL](https://crates.io/crates/cpal) crate for audio input and output. Special thanks to the CPAL developers for their contribution to the Rust audio ecosystem.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
