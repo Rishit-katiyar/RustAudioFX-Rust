@@ -1,5 +1,5 @@
 # RustAudioFX-rust 🎵
-#**(Currently learning ,might not work)**
+**(Currently learning ,might not work)**
 
 RustAudioFX-rust is a versatile audio processing framework written in Rust. This project provides a robust platform for developing real-time audio applications, with support for various audio effects, low-latency processing, and cross-platform compatibility.
 
